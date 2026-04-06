@@ -57,7 +57,7 @@
 
 ### Способ 1: Скачать готовый бинарник
 
-1. Перейдите в раздел [Releases](https://github.com/yourusername/ColorMusicVisualizer/releases)
+1. Перейдите в раздел [Releases](ColorMusicVisualizer/Release)
 2. Скачайте последнюю версию `ColorMusicVisualizer.zip`
 3. Распакуйте в любую папку
 4. Запустите `ColorMusicVisualizer.exe` **от имени администратора**
