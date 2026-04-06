@@ -1,4 +1,4 @@
-# 🎵 Color Music Visualizer — 8 прожекторов
+# 🎵 Color Music Visualizer — Цветомузыка на PC
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg)](https://www.microsoft.com/windows)
